@@ -15,7 +15,7 @@ function App() {
   return (
     <main className="w-screen min-h-screen bg-gradient-to-r from-orange-200 to-red-600 flex flex-col gap-10 p-10">
       <header className="w-screen flex justify-center pt-10">
-        <div className="flex flex-col justify-center border-4 text-center">
+        <div className="flex flex-col justify-center text-center">
           <img
             src="https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png"
             alt="pokeapi"
